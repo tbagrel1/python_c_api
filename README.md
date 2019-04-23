@@ -14,7 +14,7 @@ Example of use of Python-C API
 
 - Create *Python* module from the *C* one with `python3 setup__my_module.py
     install` (may need `sudo` rights on *Linux*)
-- Include it in your *Python* project with `include my_module` or `from
+- Include it in your *Python* project with `import my_module` or `from
     my_module import *`
 
 ## Author
